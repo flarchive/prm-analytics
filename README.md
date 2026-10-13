@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of prm/analytics.** Not for installation: use [Packagist](https://packagist.org/packages/prm/analytics) or the [upstream repository](https://github.com/smmpanelscripts1/prm-analytics).
 
-**0** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/prm-analytics/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0.0-rc.8`
+**1** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/prm-analytics/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0.0-rc.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-10-09 | `^2.0.0-rc.8` | [Browse](https://github.com/flarchive/prm-analytics/tree/archive/v2.0.0) |
 
 Catalog entry: [packages/prm-analytics.json](https://github.com/flarchive/archive-index/blob/main/packages/prm-analytics.json)
 
